@@ -1,4 +1,4 @@
-I Used  this project HTML,CSS,JS and make a simple weather web application
+I Used HTML,CSS,JS and make a simple weather web application
 
 
 
